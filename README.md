@@ -1,4 +1,4 @@
-clea# Variable Assignment
+# Variable Assignment
 
 ## Objectives
 
